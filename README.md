@@ -30,3 +30,7 @@ I’m a passionate front-end developer with skills in HTML, CSS, JavaScript, and
 
 - **Frontend:** HTML, CSS, Javascript, Bootstrap, TailwindCSS, React
 - **Database:** SQL
+
+<br>
+
+Thanks for visiting my profile! 👋
