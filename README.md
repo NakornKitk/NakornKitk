@@ -22,9 +22,9 @@ I’m a passionate web developer. I learned through self-study and bootcamp cour
 ## Project
 
 
-- **POPCAT clone**<br>
-  Clone a POPCAT website developed by using MERN Stack.<br>
-  **Link:** [popcat-clone-project.vercel.app](https://popcat-clone-project.vercel.app/)
+- **POPCAT CLICKS BATTLE website**<br>
+  Clicking battle website developed by using MERN Stack.<br>
+  **Link:** [popcat-clicks-battle-project.onrender.com/](https://popcat-clicks-battle-project.onrender.com/)
 
 
 - **Sumline shop website**<br>
@@ -43,7 +43,7 @@ I’m a passionate web developer. I learned through self-study and bootcamp cour
 
 ## Skill
 
-- **Frontend:** HTML, CSS, Javascript, Bootstrap, TailwindCSS, ReactJS, Zustand
+- **Frontend:** HTML, CSS, Javascript, ReactJS, Bootstrap, TailwindCSS, Zustand
 - **Backend:** NodeJS, ExpressJS
 - **Database:** SQL, MongoDB
 
