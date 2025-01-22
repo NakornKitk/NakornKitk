@@ -18,34 +18,29 @@ I’m a passionate web developer. I learned through self-study and bootcamp cour
 - **Kasetsart University** (Aug 2018 - Apr 2022)<br>
   Bachelor of Engineering, Major in Industrial Engineering | GPA: 3.42
 
-
 ## Project
-
 
 - **POPCAT CLICKS BATTLE website**<br>
   Clicking battle website developed by using MERN Stack.<br>
   **Link:** [popcat-clicks-battle-project.onrender.com/](https://popcat-clicks-battle-project.onrender.com/)
 
+- **My Webboard project**<br>
+  My webboard website features a logged-in session and supports CRUD functionality for topics. developed by using ReactJS, NodeJS, MySQL and Material UI.<br>
+  **Link:** [my-webboard-project.onrender.com/](https://my-webboard-project.onrender.com/)
 
 - **Sumline shop website**<br>
-  Frontend E-commerce website developed by using React, Zustand, Vite and TailwindCSS <br>
+  Frontend E-commerce website developed by using ReactJS, Zustand, Vite and TailwindCSS <br>
   **Link:** [nakornkitk.github.io/sumline-shop-v2/](https://nakornkitk.github.io/sumline-shop-v2/)
 
-
-- **ToDo List App**<br>
-  Website that can create, edit, delete and marked done a todo list. developed by using React and Bootstrap. <br>
-  **Link:** [nakornkitk.github.io/to-do-list-app/](https://nakornkitk.github.io/to-do-list-app/)
-
-
 - **Linkedin Profile clone**<br>
-  Cloning a linkedin profile page by using only HTML and CSS. <br>
-  **Link:** [nakornkitk.github.io/linkedin-profile/](https://nakornkitk.github.io/linkedin-profile/)  
+  Cloning a linkedin profile page by using only HTML and CSS (No framework) <br>
+  **Link:** [nakornkitk.github.io/linkedin-profile/](https://nakornkitk.github.io/linkedin-profile/)
 
 ## Skill
 
 - **Frontend:** HTML, CSS, Javascript, ReactJS, Bootstrap, TailwindCSS, Zustand
 - **Backend:** NodeJS, ExpressJS
-- **Database:** SQL, MongoDB
+- **Database:** MySQL, MongoDB
 
 <br>
 
